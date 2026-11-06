@@ -1,0 +1,8 @@
+version: 1.1.0
+files:
+  - url: DMSK-Office-Setup.exe
+    sha512: HXFTbQexm5KpOAadAG1XwCldn+QBcuVZRCD2T5WdwygPlTcTsRXq2/dIufyiK7frhaE2IP89oFux/vZnDfVplA==
+    size: 82056691
+path: DMSK-Office-Setup.exe
+sha512: HXFTbQexm5KpOAadAG1XwCldn+QBcuVZRCD2T5WdwygPlTcTsRXq2/dIufyiK7frhaE2IP89oFux/vZnDfVplA==
+releaseDate: '2026-11-06T11:38:08.171Z'
